@@ -1,6 +1,6 @@
 {
-  "homepage": "https://ivanshklyaruk.github.io/CHANGE-CHANGE/",
-  "name": "CHANGE",
+  "homepage": "https://ivanshklyaruk.github.io/Three-Worlds/",
+  "name": "three-worlds",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,8 +11,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@react-three/drei": "^9.108.3",
+    "@react-three/fiber": "^8.16.8",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "three": "^0.166.1",
+    "three-stdlib": "^2.30.4"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
@@ -23,6 +27,6 @@
     "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-react-refresh": "^0.4.7",
     "gh-pages": "^6.1.1",
-    "vite": "^5.3.1"
+    "vite": "^5.3.3"
   }
 }

@@ -1,11 +1,11 @@
-import CHANGE from "./pages/CHANGE";
+import ThreeWorldsPage from "./pages/ThreeWorldsPage";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <div className="content">
-        <CHANGE />
+        <ThreeWorldsPage />
       </div>
     </div>
   );
