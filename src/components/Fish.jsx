@@ -66,4 +66,4 @@ export function Fish({ hovered, ...props }) {
   );
 }
 
-useGLTF.preload("/models/Fish.gltf");
+useGLTF.preload("models/Fish.gltf");

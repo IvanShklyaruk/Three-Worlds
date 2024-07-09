@@ -62,4 +62,4 @@ export function DragonEvolved({ hovered, ...props }) {
   );
 }
 
-useGLTF.preload("/models/Dragon_Evolved.gltf");
+useGLTF.preload("models/Dragon_Evolved.gltf");

@@ -75,4 +75,4 @@ export function Cactoro({ hovered, ...props }) {
   );
 }
 
-useGLTF.preload("/models/Cactoro.gltf");
+useGLTF.preload("models/Cactoro.gltf");
